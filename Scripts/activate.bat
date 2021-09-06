@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\madyor\OneDrive - Microsoft\Desktop\python\django\helloworld"
+set "VIRTUAL_ENV=C:\src\python\helloworld"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
